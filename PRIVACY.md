@@ -1,4 +1,4 @@
-# Privacy Policy — Intuitive Video Speedup
+# Privacy Policy - Intuitive Video Speedup
 
 *Last updated: February 15, 2026*
 

@@ -2,7 +2,7 @@
 
 Joystick-style speed and volume control for any HTML5 video. Hover, drag, scroll -- no menus needed.
 
-![Promo](images/Intuitive%20Video%20Speedup%201280x800.png)
+![Drag to Speed Up](images/Drag%20To%20Speed%20Up%201280x800.png)
 
 ## How it works
 
